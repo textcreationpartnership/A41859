@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great and bloody news from Tangier, or, A full and true relation of a great and dreadful fight which happened on the 3d of this instant November between the English and the Moors ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41859</idno>
+            <idno type="STC">Wing G1646</idno>
+            <idno type="STC">ESTC R23412</idno>
+            <idno type="EEBO-CITATION">12068470</idno>
+            <idno type="OCLC">ocm 12068470</idno>
+            <idno type="VID">53439</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53439)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 71:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great and bloody news from Tangier, or, A full and true relation of a great and dreadful fight which happened on the 3d of this instant November between the English and the Moors ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tangier (Morocco) --  History --  Siege, 1680.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:53439:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>
+               <hi>Great and Bloody News</hi> FROM TANGIER, Or a full and True RELATION OF A <hi>Great and dreadful Fight</hi> Which happened on the 3d. of this Inſtant <hi>November</hi> Between the Engliſh and the Moors, And continued for the ſpace of ſix hours, during which time 2000 of the Moors were ſlain, and ſeveral taken Priſoners, their whole Army conſiſting of 30000 put all to Flight, with the loſs of ſix pieces of Cannon, and many Enſigns and Standards.</head>
+            <head type="sub">With the Relation how they Cowardly Shot and mortally woun<g ref="char:EOLhyphen"/>ded that Right worthy Gentleman, Sir <hi>Palmes Fairborne,</hi> as he was Riding without the Walls.</head>
+            <head type="sub">As alſo of the brave Behaviour of the Spaniſh Horſe, who took part with the Engliſh, and many other remarkable Paſſages, the like Victory not having been obtained theſe many years.</head>
+            <p>STill in what place ſoever the Engliſh are reſident, Victoria Crowns their Arms with good ſucceſs, their Vallours are as dauntleſs as in their Native Land, when ever for the ho<g ref="char:EOLhyphen"/>nour of their Prince and Countries Renown, Stern <hi>Mars</hi> does ſummon them into the Bloody Field, as has been ſeen in their
+<pb n="2" facs="tcp:53439:2"/>
+               <!-- PDF PAGE 26 -->
+many Victories againſt ſuch ods of Foes as Sunburnt <hi>Affrick</hi> has oppoſed againſt our famous Garriſon of <hi>Tangier,</hi> which has ſo long defended it ſelf againſt a Continent that has one part of the World for its large Portion.</p>
+            <p>The Relation of the late dreadful Fight as we have it from very good hands, was as followerh, The Moors ſince the expira<g ref="char:EOLhyphen"/>tion of the Truce, having with an Army of thirty thouſand Horſe and Foot advanced themſelves, making many Lines of Incroach<g ref="char:EOLhyphen"/>ment, Circumvaliation and Counacrvaluation, ſo that by degrees they had brought their main works within a Furlong of the Wall of the Town, and many of their advance Works were ſo near that with Hand-ſlings they could throw into the ſame and hit our Men as they ſtood upon the Fortifications, as likewiſe they had planted ſeveral great pieces of Cannon upon diſtant Batteries, which they began to play, which the ever worthy Gentleman Sir <hi>Palmes Fairborne</hi> Governour of the ſaid Garriſon perceiving, took a Party of Horſe, and Rode without the Walls to obſerve more narrowly their Approach, but long he had not rode before he unfortunately received a Shot in his Body from one of the Enemies, who lay entrenched upon the Right, which Wound proved ſo mortal that he fell from his Horſe and was carried in<g ref="char:EOLhyphen"/>to the Town, to the great grief of all his Souldiers, but was alive when theſe Letters came away, the Spaniſh Horſe ſeeing this, who were about 200 in number, mounted, and violently charg<g ref="char:EOLhyphen"/>ed the Moors in the Front, beating them from their works, and were ſeconded by the Engliſh, conſiſting of about four thou<g ref="char:EOLhyphen"/>ſand Horſe and Foot, under the Command of Collonel <hi>Sack<g ref="char:EOLhyphen"/>ville,</hi> the Van being compoſed of the Spaniſh Horſe, and the En<g ref="char:EOLhyphen"/>gliſh Horſe making a right Wing to the Main Body, the Sally being made on the third of <hi>November</hi> between eleven and twelve of the Clock at Night, as well hoping to ſurpr<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ze the Moors in their Trenches or Works, but that expectation failed, for the Sentinels upon the approach of the Garriſon gave the Alarm to the whole Army, who came up very reſolutely, but were as brave<g ref="char:EOLhyphen"/>ly repulſed, for the Spaniſh Horſe and our Engliſh Foot break<g ref="char:EOLhyphen"/>ing into their Ranks, put them into great diſorder, and made great Slaughter amongſt their beſt men, ſo that our main Body preſſing on with undanted Reſolution. The Enemies were for<g ref="char:EOLhyphen"/>ced to Abandon their Trenches, and fly to their Army for ſhel<g ref="char:EOLhyphen"/>ter, many of them being killed in the flight. After two hours
+<pb n="3" facs="tcp:53439:2"/>
+               <!-- PDF PAGE 26 -->
+Diſpute the Moors Horſe retired and left their Foot to Diſpute it with our Horſe and Foot, who though they were ſix times as many yet the Shot preſſing on, and the Charge increaſing on all ſides, they began to ſhrink together, yet being encouraged by ſome Chriſtian Runagadoes, they made ſome ſmall reſiſtance during which their diſordered Horſe had put themſelves into a tollerable poſture, and rallied, who being met and Charged by the Engliſh Horſe, who were then advanced in the Front of the Battel, a number of them were killed upon the Place, and ſome taken Priſoners, ſo that the Fight continued very ſmart<g ref="char:EOLhyphen"/>ly, for though many of the Moors were ſlain, yet they being ſo numerous ſtill brought up freſh ſupplies to fill up the Gaps Death Made. Yet were they as often put to the worſt, diſ<g ref="char:EOLhyphen"/>ordered, and at laſt totally routed. The Collonel himſelf, who all the time behaved himſelf Gallantly, and encouraged the Engliſh, he with ſeveral other brave Commanders, and about eight hundred Foot forced their main Body which was drawn up. and fronted with Muſqueteers and Harquebuſſers, ſo that their Orders being again broken and many of their prime Commanders ſlain, they began to ſhew the ſmall liking they had to continue the Battel.</p>
+            <p>Several of them turning their backs, ruſhed through the Ranks of their own friends, and fled, diſordering them in many places, which our Comman<g ref="char:EOLhyphen"/>ders obſerving, took the advantage of their Confuſion, and ere they could cloſe the points of their Circle; killed a number of them, whilſt this was doing in the Front, the Horſe that ſerved for our Right Wing, charged them ſo furiouſly in the Front, that they were forced there likewiſe to o<g ref="char:EOLhyphen"/>pen their orders, which their General obſerving, came to the ſide in great haſt, to ſtay his flying Souldiers, but could by no means do it, ſo that finding himſelf worſted on all ſides, he gave order to ſound a Retreat, where<g ref="char:EOLhyphen"/>upon the Engliſh were ſo encouraged, that they purſued them with great Slaughter for the ſpace of two Miles, but not thinking it convenient to venture any further for fear of an Ambuſcade they returned, having taken 7 or 8 of their Enſigns, killed about 2000 of their Men, and taken about 30 Priſoners with 5 or 6 pieces of Canon, ſo that having cleared the Field and layed the Moors dead bodies up in ſeveral piles, they returned and filled up all their Trenches, and demoliſhed their Votes, they returned Victorious in<g ref="char:EOLhyphen"/>to the Town. There were in this Action about 10 or 12 of the Spaniards killed, and about 100 Engliſh, among whom we do not hear of any Officers of Note when they were come into the Town, for the better encouragement of the Souldiers, each who had taken an enſign received thirty pounds, and thoſe who took the Priſoners, who were about 20 in number, had free leave to make the beſt of them, This action had cauſed a general Joy to the In<g ref="char:EOLhyphen"/>habitants,
+<pb n="4" facs="tcp:53439:3"/>
+               <!-- PDF PAGE 27 -->
+had it not been daſhed with the unfortunate hurt of our Gover<g ref="char:EOLhyphen"/>nour, not long after the Moors deſired a Truce to bury their dead. which was granted upon the 8th of the ſame Inſtant, they having been Reinfor<g ref="char:EOLhyphen"/>ced, made an other Attempt, but were as bravely repulſed with conſiderable Siaughter. The particulars of which, we ſhall ſhortly give you a faithful account of; farther, we have Letters that Informs us, the Earl of Plymouth by reaſon of his tedious Voyage at Sea, ſell into ſome diſpoſition which turned into a Feaver, of which he dyed, &amp;c.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Mallet</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
